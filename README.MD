@@ -93,7 +93,7 @@ Si quieres mejorar el juego, sigue estos pasos:
 - **Motor de Juego:** Unity 2022.3.34f1
 - **Lenguaje:** C#
 
-📌 **Repositorio en GitHub:** [https://github.com/tu-usuario/nivelation](https://github.com/tu-usuario/nivelation)
+📌 **Repositorio en GitHub:** [https://github.com/harnelp/nivelation-game](https://github.com/harnelp/nivelation-game)
 
 ---
 
