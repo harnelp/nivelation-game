@@ -81,6 +81,12 @@ Si quieres mejorar el juego, sigue estos pasos:
 
 ## ✨ Capturas
 
+![Juego Inicial](image-1.png)
+
+![Juego](image-2.png)
+
+![Fin de juego](image.png)
+
 ## 💡 Créditos
 
 - **Desarrollador:** Harnel Peña
