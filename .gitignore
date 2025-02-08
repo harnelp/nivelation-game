@@ -1,0 +1,60 @@
+# Archivos de Unity y configuraciones locales
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Configuración de usuarios y metadatos locales
+UserSettings/
+*.userprefs
+
+# Archivos de Visual Studio y JetBrains Rider
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Archivos de cache y configuración de paquetes
+Packages/com.unity.package-manager-do-not-use/
+Packages/packages-lock.json
+
+# Archivos de compilación
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.dll
+
+# TextMeshPro archivos generados
+[Tt]ext[Mm]esh[Pp]ro/
+
+# Archivos de caché de Unity
+Assets/StreamingAssets/
+
+# Archivos de sistema de Mac y Windows
+.DS_Store
+Thumbs.db
+
+# Archivos de Git
+.git/
+
+# Carpetas de backup de Unity
+Backup*/
+
+# Archivos de logs
+*.log
+*.stacktrace
+
